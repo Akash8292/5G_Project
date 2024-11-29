@@ -44,7 +44,7 @@ This project explores the application of machine learning (ML) to optimize bandw
 
 - **Evaluation Metrics**:  
   - **Mean Squared Error (MSE)**: Measures average squared difference between predicted and actual resource allocation.  
-  - **R-Squared**: Measures variance in actual resource allocation explained by the model.  
+  - **R-Squared**: Measure variance in actual resource allocation explained by the model.  
 
 ---
 
