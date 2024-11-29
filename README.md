@@ -2,7 +2,6 @@
 
 This project explores the application of machine learning (ML) to optimize bandwidth management in 5G networks. A comparative analysis of regression algorithms and neural networks is conducted to identify the most effective models for resource allocation, ensuring high Quality of Service and network efficiency. Key evaluation metrics include **Mean Square Error (MSE)** and **R-Squared**.
 
----
 
 ## Requirements
 
