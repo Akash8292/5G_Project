@@ -62,3 +62,7 @@ https://drive.google.com/file/d/1rsk-dxSwd8PK9Nxl_2OK9N5gxwjEN4yl/view?usp=shari
 ### Observations:
 - Neural Networks demonstrated performance improvement with more epochs but tended to overfit, emphasizing the need for careful epoch selection.
 
+## Video Explanation
+### Drive Link : 
+https://drive.google.com/file/d/16pIgNrHXaLlRLIbpZbuNWXo-UWtAnOCb/view?usp=sharing
+
